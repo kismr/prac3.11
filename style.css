@@ -8,12 +8,13 @@ div.a {
 
 div.t {
     position: relative;
+    top: 40px;
     left: -100px;
 }
 
 div.c {
     position: relative;
-    top: -39px;
+    top: 7px;
     left: 100px;
 }
 
