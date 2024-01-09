@@ -1,0 +1,19 @@
+div.a {
+    background-color: #57f5fa;
+}
+
+div.b {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.c {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.aa {
+    background-color: black;
+}

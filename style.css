@@ -1,0 +1,27 @@
+body.a {
+    background-color: #fcbc3f;
+}
+
+div.a {
+    background-color: black;
+}
+
+div.t {
+    position: relative;
+    left: -100px;
+}
+
+div.c {
+    position: relative;
+    top: -39px;
+    left: 100px;
+}
+
+h3.a {
+    color: orange;
+}
+
+img.a {
+    position: relative;
+    top: -80px;
+}
